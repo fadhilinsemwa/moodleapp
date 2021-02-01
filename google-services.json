@@ -1,42 +1,37 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "575658046285",
+    "firebase_url": "https://tihestmobile-8f2b1.firebaseio.com",
+    "project_id": "tihestmobile-8f2b1",
+    "storage_bucket": "tihestmobile-8f2b1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111111111111:android:1111111111111111",
+        "mobilesdk_app_id": "1:575658046285:android:39397548b719d40fe57d04",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "com.android.tihest"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "575658046285-ikrchqvvnufdqm49k9b9b922qepggc6p.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
-        },
-        {
-          "current_key": ""
+          "current_key": "AIzaSyBA80sBezetRZzfj2jIiBtSdyxNHGBAKg4"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575658046285-ikrchqvvnufdqm49k9b9b922qepggc6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
